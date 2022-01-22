@@ -117,5 +117,3 @@ game.Players.PlayerAdded:Connect(function(v)
     end
     coroutine.wrap(boxesp)()
 end)
-
----Created By 0x83
